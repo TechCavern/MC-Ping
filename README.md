@@ -1,3 +1,3 @@
 MC-Ping [![Packagist](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/TechCavern/MC-Ping/blob/master/LICENSE.md)
 ---------------------------------------------------------------
-Library integrated into WaveTact to ping MC Servers and get MC Server Info
+MCServerInfo Command in WaveTact is derived fro mthis library by Laceh. It basically pings servers and gets a basic overview of them.
